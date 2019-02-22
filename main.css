@@ -16,3 +16,27 @@ body {
     border-radius: 50%;
 
 }
+
+.hero {
+    background: navy;
+    height: 400px;
+    width: 100%;
+}
+
+.user-info {
+    display: inline-block;
+    position: absolute;
+    bottom: -3em;
+}
+
+.user-image {
+    display: inline-block;
+    max-width: 200px;
+}
+
+.hero-content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+}
