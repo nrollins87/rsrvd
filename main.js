@@ -8,6 +8,8 @@ var task2 = new Task('create a demo for modules');
 var task3 = new Task('create a demo for singletons');
 var task4 = new Task('create a demo for prototypes');
 
+//New Comment
+
 task1.complete();
 task2.save();
 task3.save();
